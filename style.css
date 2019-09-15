@@ -1,0 +1,59 @@
+body {
+    width: 1024px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 0 auto;
+    color: rgba(42, 14, 57, 1);
+    line-height: 1.4em;
+}
+
+h1 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgba(180, 106, 255, 1);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-column-gap: 50px;
+    grid-row-gap: 15px;
+}
+
+.about-myself {
+    grid-row-start: 1;
+    grid-row-end: 4;
+    grid-column-start: 1;
+    grid-column-end: 1;
+}
+
+.contact-info {
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+
+.education-code-examples {
+    grid-row-start: 4;
+    grid-row-end: 6;
+    grid-column-start: 1;
+    grid-column-end: 1;
+}
+
+.skills {
+    grid-row-start: 3;
+    grid-row-end: 5;
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+
+.lang {
+    grid-row-start: 5;
+    grid-row-start: 5;
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
