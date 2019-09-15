@@ -18,5 +18,5 @@ Education – self-education courses in Codecademy:
 *Introduction to HTML
 *Learn CSS
 *Introduction to JavaScript
-
+[Code examples.](http://github.com)
 
