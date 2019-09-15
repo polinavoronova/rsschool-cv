@@ -14,33 +14,22 @@ I’m friendly, enthusiastic, collaborative, and I’m able to function well in 
 I chose front-end development, because I can watch all the changes made instantly and it's also a field that provides many opportunities for hands-on learning. 
 
 Skills:
-
-*HTML
-
-*CSS
-
-*JavaScript
-
-*Git
-
-*Adobe Photoshop, Illustratot, CorelDRAW
+* HTML
+* CSS
+* JavaScript
+* Git
+* Adobe Photoshop, Illustratot, CorelDRAW
 
 Education – self-education courses in Codecademy: 
-
-*Learn the Command Line	
-
-*Learn Git
-
-*Introduction to HTML
-
-*Learn CSS
-
-*Introduction to JavaScript
+* Learn the Command Line	
+* Learn Git
+* Introduction to HTML
+* Learn CSS
+* Introduction to JavaScript
 
 [Code examples.](https://github.com/polinavoronova/js-tasks)
 
-Languages:
-
+Languages:<br/>
 English B1.
 
 
