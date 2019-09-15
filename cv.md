@@ -18,8 +18,10 @@ Education – self-education courses in Codecademy:
 *Introduction to HTML
 *Learn CSS
 *Introduction to JavaScript
-[Code examples.](http://github.com)
+[Code examples.](https://github.com/polinavoronova/js-tasks)
 Languages:
 English B1.
+
+
 
 
