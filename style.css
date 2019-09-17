@@ -1,0 +1,110 @@
+body {
+    max-width: 1024px;
+    margin: 50px auto;
+    font-size: 18px;
+    line-height: 1.4em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: justify;
+    color: rgba(42, 14, 57, 1);
+     
+}
+
+h1 {
+    padding-left: 250px;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgba(180, 106, 255, 1);
+}
+
+.grid {
+    display: grid;
+    grid-template: 1fr 1fr 1fr 1fr 1fr / 65% 35%;
+    row-gap: 15px;
+    column-gap: 30px;
+}
+
+.box {
+    padding: 20px 10px;
+}
+
+.about-myself {
+    grid-area: 1 / 1 / 4 / 1;
+}
+
+.photo {
+    padding: 0 0 0 45px;
+}
+
+.contact-info {
+    grid-area: 2 / 2 / 3 / 2;
+    padding: 10px 0px;
+    font-size: 16px;
+}
+
+.education-code-examples {
+    grid-area: 4 / 1 / 6 / 1;
+}
+
+.skills-lang{
+    grid-area: 3 / 2 / 5 / 2;
+}
+
+.icon {
+    padding: 5px 0px;
+}
+
+.icon p {
+    display: inline;
+}
+
+.icon i {
+    width: 15px;
+    height: 15px;
+    margin: 0 5px;
+    padding: 4px;
+    text-align: center;
+    border-color: rgba(180, 106, 255, 1);
+    border: 2px solid;
+    border-radius: 4px;
+}
+
+.about-myself p {
+    text-indent: 25px;
+}
+
+.education-code-examples {
+    padding: 0 10px;
+}
+
+.education-code-examples p {
+    text-indent: 25px;
+}
+
+.education-code-examples a {
+    display: block;
+    width: 127px;
+    margin: 30px 0 0 25px;
+    color: rgba(42, 14, 57, 1);  
+}
+.education-code-examples a:hover {
+    color: rgba(180, 106, 255, 1);
+}
+
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+.education-code-examples li {
+    padding-left: 35px;
+}
+
+.skills li {
+    padding-left: 10px;
+    text-align: left;
+}
+
+.lang {
+    padding-top: 55px;
+}
+
